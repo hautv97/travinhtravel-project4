@@ -1,0 +1,84 @@
+
+#banner {
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+#banner h1 {
+    position: absolute;
+    top: 30px;
+    left: 6%;
+    color: lightgoldenrodyellow;
+    padding-top: 20px;
+    letter-spacing: 1px;
+    font-family: 'Style Script', cursive;
+}
+
+#banner p {
+    position: absolute;
+    top: 95px;
+    left: 6%;
+    color: lightgoldenrodyellow;
+    font-family: 'Style Script', cursive;
+    font-size: 20px;
+}
+
+#banner img {
+    width: 100%;
+    height: auto;
+}
+#banner h2 {
+    position: absolute;
+    top: 160px;
+    left: 6%;
+    color: honeydew;
+    padding-top: 10px;
+    letter-spacing: 1px;
+    font-family: 'Style Script', cursive;
+}
+#banner h2 a {
+    text-decoration: none;
+    color: lightgoldenrodyellow;
+}
+
+#banner h2 a:hover {
+  text-decoration: underline;
+}
+
+.image img {
+    height: 300px;
+    width:  100%;
+    margin-top: 5px;
+}
+.image p {
+    text-align: center;
+    font-family: 'Style Script', cursive;
+    font-size: 17px;
+    margin-top: 10px;
+}
+.image a {
+    text-decoration: none;
+}
+.content {
+    background-color: lightgrey;
+}
+.content h1 {
+    font-family: 'Style Script', cursive;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 5px;
+}
+.content h1 a {
+    text-decoration: none;
+    display: inline-block
+}
+.content h1 a:hover {
+    background-color: orange;
+}
+
+
+
+
+
+
+
